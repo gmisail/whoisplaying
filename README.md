@@ -34,3 +34,6 @@ the NFL's LiveUpdate API.
 | (11/25) Baltimore Ravens @ Los Angeles Rams (ESPN)         |
 +------------------------------------------------------------+
 ```
+---
+
+This project was developed as a small programming exercise to practice basic Node.js skills.
