@@ -1,6 +1,7 @@
 # whoisplaying
 
-whoisplaying is a simple command line utility that gets this week's NFL schedule. For instance,
+whoisplaying is a simple command line utility that gets this week's NFL schedule. At the moment, it is based on Node.js and
+the NFL's LiveUpdate API.
 
 ```
 +------------------------------------------------------------+
